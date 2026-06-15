@@ -1,0 +1,7 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 10
+names: ['glove', 'goggles', 'helmet', 'mask', 'no_glove', 'no_goggles', 'no_helmet', 'no_mask', 'no_shoes', 'shoes']
+
